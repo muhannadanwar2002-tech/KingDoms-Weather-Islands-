@@ -16,10 +16,7 @@ The second notebook trains a decision tree on 20 hand-labeled choices. Each choi
 
 All 20 examples are used for training. To try a different decision, edit the consequence weights in the last cell. The choice description is printed for the reader, while the weights determine the prediction.
 
-## Explore the project
-
-File
-
+## Explore the project file
 How to use it
 
 KINGDOMS-Seven-Sins.html
